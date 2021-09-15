@@ -1,0 +1,61 @@
+body {
+	font-family: 'Glory', sans-serif;
+}
+
+
+h1 {
+    font-family: 'Glory', sans-serif;
+	font-style: normal;
+	font-size: 25px;
+
+}
+
+.zakaz3 {
+    
+    display: block;
+    font: 1rem ;
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
+
+.zakaz31 {
+    display: block;
+    font: 1rem ;
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
+
+.date1 {
+    
+        display: block;
+        font: 1rem ;
+    }
+    
+    input,
+    label {
+        margin: .4rem 0;
+    }
+
+
+.number1 {
+    display: block;
+    font: 1rem ;
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
+
+
+
+
+
+
+
